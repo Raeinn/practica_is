@@ -1,0 +1,5 @@
+user:thecrew
+password:jcrules98
+host:localhost
+database:si_cine
+auth_plugin:mysql_native_password

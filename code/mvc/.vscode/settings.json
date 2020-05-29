@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "si_cine",
+            "dialect": "MySQL",
+            "name": "si_cine",
+            "password": "jcrules98",
+            "port": 3306,
+            "server": "localhost",
+            "username": "thecrew"
+        }
+    ]
+}
